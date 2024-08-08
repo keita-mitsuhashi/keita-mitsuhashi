@@ -8,7 +8,7 @@
 - 2024
   - [Laravel Worker x SQSの組み合わせで少しハマったこと](https://tech.yappli.io/entry/laravel_worker_sqs)
   - [New Relic x OpenTelemetryを使ってサービスの健康状態が一目でわかるダッシュボードを作りました](https://tech.yappli.io/entry/yappli_health_dashboard)
-　　　　- [Classmethod Odysseyで登壇してきました](https://tech.yappli.io/entry/classmethod_odyssey)
+  - [Classmethod Odysseyで登壇してきました](https://tech.yappli.io/entry/classmethod_odyssey)
   - [NRQL実践問題集を通して組織のインシデント対応能力向上を図ろうとしている話](https://tech.yappli.io/entry/nrql-challenges-for-incident-response-improvement)
 - 2023
   - [New Relicを活用してECS/Fargateのキャパシティ見直しを実施しコスト削減した話](https://tech.yappli.io/entry/fargate_performance_tuning_newrelic)
